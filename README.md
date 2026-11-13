@@ -54,5 +54,4 @@ for e in elements:
 
 ### Learn More
 
-Visit the [official Wikipedia page](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender).# ap-dev
-My first repository
+Visit the [official Wikipedia page](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender).
